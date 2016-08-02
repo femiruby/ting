@@ -1,6 +1,6 @@
 # Ting
 
-Ting is a forked deprecated japanese social networking project written in Ruby on Rails and Semantic-UI.
+Ting is a forked deprecated chinese social networking project written in Ruby on Rails and Semantic-UI.
 
 You can check out the demo at [this link](http://tinger.herokuapp.com).
 
